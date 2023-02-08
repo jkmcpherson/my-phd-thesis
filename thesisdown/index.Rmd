@@ -1,6 +1,6 @@
 ---
 title: 'My Final College Paper'
-author: 'Your R. Name'
+author: 'Jacob K. McPherson'
 date: 'May 20xx'
 institution: 'Reed College'
 division: 'Mathematics and Natural Sciences'
