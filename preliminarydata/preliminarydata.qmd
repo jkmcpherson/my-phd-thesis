@@ -1,0 +1,70 @@
+---
+title: "Preliminary-data"
+author: "J. McPherson"
+format: html
+server: shiny
+---
+
+## Introduction
+
+### *Clinical* Significance: Importance of the Problem
+
+### *Scientific* Significance: Current Literature Gaps
+
+## Innovation
+
+### New Scientific Avenues
+
+### Novel Hypotheses
+
+### Creates New Knowledge
+
+## Approach
+
+### Aim 1:
+
+#### Rationale
+
+#### Experimental Approach
+
+#### Data Management Plan
+
+#### Expected Results
+
+#### Rigor/Reproducibility
+
+#### Potential Pitfalls
+
+#### Alternative Approaches
+
+### Aim 2:
+
+#### Rationale
+
+#### Experimental Approach
+
+#### Data Management Plan
+
+#### Expected Results
+
+#### Rigor/Reproducibility
+
+#### Potential Pitfalls
+
+#### Alternative Approaches
+
+### Aim 3:
+
+#### Rationale
+
+#### Experimental Approach
+
+#### Data Management Plan
+
+#### Expected Results
+
+#### Rigor/Reproducibility
+
+#### Potential Pitfalls
+
+#### Alternative Approaches
